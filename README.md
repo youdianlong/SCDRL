@@ -1,5 +1,5 @@
-# UCDRL
-Unified Cross-Domain Representation Learning on Heterogeneous Graphs
+# SCDRL
+Stable Cross-Domain Representation Learning on Heterogeneous Graphs
 # Author
 Author：Dianlong Y, Zijun Wang; Coder: Zijun Wang; Email：zijunw14@stumail.ysu.edu.cn
 
